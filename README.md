@@ -24,7 +24,6 @@ This project is part of the **CodeAlpha Cybersecurity Internship** and demonstra
 * [Running Snort](#-running-snort)
 * [Logging Alerts](#-logging-alerts)
 * [Example Alerts](#-example-alerts)
-* [Project Structure](#-project-structure)
 * [Screenshots](#-screenshots)
 * [Conclusion](#-conclusion)
 
